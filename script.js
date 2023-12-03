@@ -1,3 +1,4 @@
+//I have just added the playing button only as a working function but I will work on it soon to make it fully functional
 console.log("welcome to spotify")
 let songindex = 0;
 let audioElement= new Audio('Rahmatun Lil Alameen-(Mr-Jat.in).mp3')
